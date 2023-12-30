@@ -1,0 +1,6 @@
+__pycache__
+.venv
+flite
+temp_sounds
+wav_files
+apikeys.py
